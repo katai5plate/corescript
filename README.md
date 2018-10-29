@@ -11,6 +11,12 @@ npm install
 npm install && npm install gulp-cli
 ```
 
+## Build Docs
+- Windowsの場合
+```
+npm run build:docs
+```
+
 # 引用元
 
 <details><summary>フォーク元の文章</summary><p>
