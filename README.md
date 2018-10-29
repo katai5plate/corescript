@@ -1,6 +1,9 @@
 # Generate Docs from corescript
 コアスクリプトからドキュメントを生成するテスト
 
+## Preview (生成されたページ)
+https://katai5plate.github.io/generate-docs-from-corescript/
+
 ## Install
 - Gulpをグローバルインストール済の場合
 ```
