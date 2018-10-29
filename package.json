@@ -43,6 +43,6 @@
     "gulp": "^3.9.1",
     "gulp-jsdoc3": "^2.0.0",
     "gulp-html-beautify": "^1.0.1",
-    "gulp-breakdance": "^1.0.1",
+    "gulp-breakdance": "^1.0.1"
   }
 }
