@@ -1,0 +1,13 @@
+{
+    "source": {
+        "include": "js"
+    },
+    "templates": {
+      "default": {
+        "layoutFile": "layout.tmpl"
+      }
+    },
+    "opts":{
+        "destination":"./docs/gen/"
+    }
+  }

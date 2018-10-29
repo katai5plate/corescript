@@ -26,7 +26,7 @@
     "start": "http-server ./game/",
     "package": "run-s build copy-all crc zip",
     "crc": "node healthcheck/generate_crc.js",
-    "build:docs": "rd /s/q docs & gulp jsdoc & gulp normal && gulp tomd && rd /s/q \"docs/gen\""
+    "build:docs": "rd /s/q docs & jsdoc -r -c jsdoc.conf.json & gulp normal && gulp tomd && rd /s/q \"docs/gen\""
   },
   "author": "rpgtkoolmv team",
   "license": "MIT",
@@ -38,10 +38,10 @@
     "gulp": "^3.9.1",
     "gulp-breakdance": "^1.0.1",
     "gulp-html-beautify": "^1.0.1",
-    "gulp-jsdoc3": "^2.0.0",
+    "gulp-rename": "^1.4.0",
     "http-server": "^0.9.0",
     "node-watch": "^0.4.1",
     "npm-run-all": "^4.0.0",
-    "gulp-rename": "^1.4.0"
+    "jsdoc": "^3.5.5"
   }
 }
