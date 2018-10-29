@@ -36,6 +36,11 @@
     "crc-32": "^1.0.2",
     "http-server": "^0.9.0",
     "node-watch": "^0.4.1",
-    "npm-run-all": "^4.0.0"
+    "npm-run-all": "^4.0.0",
+    
+    "gulp": "^3.9.1",
+    "gulp-jsdoc3": "^2.0.0",
+    "gulp-html-beautify": "^1.0.1",
+    "breakdance": "^3.0.1"
   }
 }
