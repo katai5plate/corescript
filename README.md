@@ -1,4 +1,7 @@
+# Generate Docs from corescript
+コアスクリプトからドキュメントを生成するテスト
 
+# 引用元
 
 <details><summary>フォーク元の文章</summary><p>
 
