@@ -1,4 +1,7 @@
 
+
+<details><summary>フォーク元の文章</summary><p>
+
 # RPG Maker MV CoreScript
 
 ## Introduction
@@ -197,3 +200,5 @@ Life cycle: `new Scene_Xxx() -> create() -> start() -> update()* -> stop() -> te
 
 ## License
 This content is released under the (http://opensource.org/licenses/MIT) MIT License.
+
+</p></details>
