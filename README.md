@@ -1,6 +1,16 @@
 # Generate Docs from corescript
 コアスクリプトからドキュメントを生成するテスト
 
+## Install
+- Gulpをグローバルインストール済の場合
+```
+npm install
+```
+- Gulpをグローバルインストールしてない場合
+```
+npm install && npm install gulp-cli
+```
+
 # 引用元
 
 <details><summary>フォーク元の文章</summary><p>
